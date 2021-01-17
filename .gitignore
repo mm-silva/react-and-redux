@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/src/actions
+
 /src/reducer
 /src/store
 
