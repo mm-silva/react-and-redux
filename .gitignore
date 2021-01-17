@@ -5,7 +5,6 @@
 /.pnp
 
 /src/reducer
-/src/store
 
 .pnp.js
 
